@@ -147,7 +147,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #d8475a !important;
+			color: #81052a !important;
 			border-bottom-color: transparent;
 		}
 
@@ -165,7 +165,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #555;
+		color: #81052a;
 		font-family: "Montserrat", sans-serif;
 		font-weight: 700;
 		line-height: 1.5;

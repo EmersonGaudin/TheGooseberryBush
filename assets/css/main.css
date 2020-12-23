@@ -856,10 +856,10 @@ input, select, textarea {
 			}
 
 				ul.actions.animated.spinY li a.active {
-					-moz-transform: rotateY(480deg);
-					-webkit-transform: rotateY(480deg);
-					-ms-transform: rotateY(480deg);
-					transform: rotateY(480deg);
+					-moz-transform: rotateY(180deg);
+					-webkit-transform: rotateY(180deg);
+					-ms-transform: rotateY(180deg);
+					transform: rotateY(180deg);
 				}
 
 		ul.actions.animated.spinX li {
@@ -1133,8 +1133,8 @@ input, select, textarea {
 		button.active,
 		.button:hover,
 		.button.active {
-			box-shadow: inset 0 0 0 1px #d8475a;
-			color: #d8475a !important;
+			box-shadow: inset 0 0 0 1px #81052a;
+			color: #81052a !important;
 		}
 
 		input[type="submit"]:active, input[type="submit"].active,
@@ -1164,7 +1164,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #d8475a;
+				background-color: #81052a;
 			}
 
 			input[type="submit"].primary:active,
@@ -1172,7 +1172,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #c3293d;
+				background-color: #81052a;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
